@@ -59,7 +59,7 @@ I'm a software engineer and competitive programmer driven by efficiency, clarity
 
 ## 📫 Reach Me
 
-- 🔗 [danidiaz.tech](https://danidiaz.tech)
+- 🔗 [danidiaztech.com](https://danidiaztech.com)
 - 🐦 [Twitter/X @DaniDiazTech](https://twitter.com/DaniDiazTech)
 - 📝 [Articles on Twilio & SitePoint](https://www.twilio.com/blog/author/daniel-diaz)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danidiaztech/)
