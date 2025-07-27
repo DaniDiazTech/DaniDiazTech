@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Daniel Díaz — @DaniDiazTech
 
 🎯 Passionate about algorithms, backend systems, and high-impact software.  
