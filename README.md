@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Díaz — @DaniDiazTech
 
-🎯 Passionate about algorithms, backend systems, and high-impact software.  
+🎯 Working on algorithms, backend systems, and high-impact software.  
 📍 Based in Colombia | 🎓 Systems & Computing Engineering @ UNAL | 💡 ICPC Regional Finalist
 
 ---
@@ -44,18 +44,6 @@ I'm a software engineer and competitive programmer driven by efficiency, clarity
 
 ---
 
-## 📌 Featured Projects
-
-- 🔬 **Kodetron** — A C++-focused code editor tailored for competitive programming  
-  _QScintilla-based, with snippets, folding margins, and Codeforces integration_
-
-- 🧩 **DeveloperRoad** — A social blog platform for developers created in Django. 
-
-- 🗂️ **Competitive Programming Notebook**  
-  _Modular C++ templates and algorithms for ICPC-style contests_
-
----
-
 ## 📫 Reach Me
 
 - 🔗 [danidiaztech.com](https://danidiaztech.com)
@@ -68,18 +56,3 @@ I'm a software engineer and competitive programmer driven by efficiency, clarity
 ## 📈 GitHub Stats
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniDiazTech&show_icons=true&theme=tokyonight&count_private=true)
-
-<!--
-**DaniDiazTech/DaniDiazTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
