@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Díaz — @DaniDiazTech
+# 👋 Hi, I'm Daniel Diaz — @DaniDiazTech
 
 🎯 Working on algorithms, backend systems, and high-impact software.  
 📍 Based in Colombia | 🎓 Systems & Computing Engineering @ UNAL | 💡 ICPC Regional Finalist
