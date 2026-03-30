@@ -30,7 +30,3 @@ I'm a competitive programmer and CS student driven by efficiency, clarity, and p
 - 🐦 [Twitter/X @DaniDiazTech](https://twitter.com/DaniDiazTech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danidiaztech/)
 ---
-
-## 📈 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniDiazTech&show_icons=true&theme=tokyonight&count_private=true)
