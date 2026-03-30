@@ -29,4 +29,3 @@ I'm a competitive programmer and CS student driven by efficiency, clarity, and p
 - 🔗 [danidiaztech.com](https://danidiaztech.com)
 - 🐦 [Twitter/X @DaniDiazTech](https://twitter.com/DaniDiazTech)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danidiaztech/)
----
