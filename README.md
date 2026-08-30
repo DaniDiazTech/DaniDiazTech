@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a competitive programmer and CS student driven by efficiency, clarity, and performance. I've previously worked at Microsoft in the copilot platform, and Mercor creating competitive programming problems.
+I'm a competitive programmer and CS student. I've previously worked at Microsoft in the Copilot platform and Mercor where I created competitive programming problems.
+
 ---
 
 ## 🔧 Tech Stack
